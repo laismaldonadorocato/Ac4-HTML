@@ -1,0 +1,21 @@
+label {
+	font-style: italic;
+}
+
+input{
+	background-color: #00BFFF;
+	width: 300px;
+	font-weight:bold;
+}
+
+input:focus {
+	background-color: #FFF;
+	text-decoration:
+}
+
+textarea{
+	background-color: #00BFFF;
+	font-weight:bold;
+}
+
+
